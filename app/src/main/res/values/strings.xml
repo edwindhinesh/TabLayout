@@ -1,0 +1,199 @@
+<resources>
+    //Camera
+    <string name="preview_description">Image and Video preview will appear here</string>
+    <string name="btn_take_picture">Take Picture</string>
+    <string name="btn_record_video">Record Video</string>
+
+    <string name="app_name">TAB LAYOUT</string>
+    <string name="bottom_basic_home">Home</string>
+    <string name="bottom_basic_settings">Settings</string>
+    <string name="bottom_basic_profile">Profile</string>
+    <string name="bottom_basic_camera">Camera</string>
+    <string name="bottom_search">Search</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="desc">- YouTube Channel"\n"- UI | UX Design</string>
+    <string name="username">"@"john_doe</string>
+    <string name="lorem">Driven guidance counselor with 10+ years’ experience teaching and advising high school students. Excellent written and oral communication skills.</string>
+    <string name="lorem1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="lorem2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."\n""\n"
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="ipsum">Cal State University - 2012"\n"California Public University - 2014"\n"Cal Tech, Pasadena - 2016 </string>
+    <string name="lorem_qualify">Master of Science, Counseling</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="posts">53</string>
+    <string name="title_activity_custom_drawer">CustomDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="email1">Email ID</string>
+    <string name="password1">Password</string>
+    <string name="accepting">By signing in , you accept our <u>terms and conditions</u>.</string>
+    <string name="forgot_password">Forgot Password ??</string>
+    <string name="splash_head">Start"\n"your"\n"adventure</string>
+    <string name="create_an_account">Create an"\n"Account</string>
+    <string name="travel_head1">Where"\n"do you want"\n"to travel?</string>
+    <string name="empty1">You are 404 million kilometres away from us."\n"Please tap on refresh button to try connecting back.</string>
+    <string name="title_activity_connection_empty1">No Connection</string>
+    <string name="tab_text_4">Dark Theme</string>
+    <string name="tab_text_5">Light Theme</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lines">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </string>
+    <string name="music">Culture</string>
+    <string name="notification1">You have not received any notifications."\n"We will notify you once we have received any.</string>
+    <string name="hub">Connect your networks from all over the world at one place.</string>
+    <string name="location">But no need to worry."\n"Try again by pressing on refresh icon.</string>
+    <string name="ingredients">Buttery, flaky pastry named for its crescent shape.</string>
+    <string name="offline2">Your network is unavailable. Check your data or wifi connection.</string>
+    <string name="offline_head">You\'re offline</string>
+    <string name="offline_1">Check your connection and try again</string>
+    <string name="offline3">You can use the translation app when you\'re offline by downloading language files ahead of time.</string>
+
+    <string-array name="phone_types">
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Home</item>
+        <item>Main</item>
+        <item>Work Fax</item>
+        <item>HomeFax</item>
+        <item>Pager</item>
+    </string-array>
+
+    <string-array name="number_codes">
+        <item>+91</item>
+        <item>+54</item>
+        <item>+374</item>
+        <item>+297</item>
+        <item>+1</item>
+        <item>+93</item>
+        <item>+255</item>
+    </string-array>
+
+    <string-array name="mail_types">
+        <item>Work</item>
+        <item>Home</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="title_activity_toolbar_with_tabs3">WhatsChat</string>
+    <string name="tab_text_1">CHATS</string>
+    <string name="tab_text_2">STATUS</string>
+    <string name="tab_text_3">CALLS</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="search">Search...</string>
+    <string name="chats">CHATS</string>
+    <string name="calls">CALLS</string>
+    <string name="brand_name">Brand</string>
+    <string name="brand_desc">\'\'You are the best brand. Make it outstanding.\'\'</string>
+    <string name="terms">By Signing in, you accept our <u>terms and conditions.</u> </string>
+    <string name="text_register">REGISTER</string>
+    <string name="title_activity_navigation_drawer1">NavigationDrawer</string>
+    <string name="not_msg">[High Category notifications for OREO and above.]"\n""\n"[Low Category notifications for below OREO.]</string>
+    <string name="not_msg2">Icons and background color on notification builder will be the same color as bitmap.</string>
+    <string name="not_msg3">Directly reply in the notification builder using remote input Check it out now.</string>
+    <string name="dont_have_an_account_sign_up">Dont have an account?? <b>Sign Up</b></string>
+    <string name="already_have_an_account">Already have an account? <u>Login</u></string>
+    <string name="download_conditions">Note : Downloaded file will be in zip format. View the file in default <b>File Explorer</b> of your mobile.</string>
+    <string name="feedback">Please leave feedback about our features in this application. And it would be very helpful if you could suggest us to improve our features.</string>
+
+    <string name="lic1">Copyright 2014 - 2018 Henning Dodenhof
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</string>
+
+    <string name="lic2">Icons made by Freepik from www.flaticon.com is licensed by CC 3.0. Visit them at https://www.freepik.com</string>
+
+    <string name="lic3"> Copyright 2017 Katerina Limpitsouni
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. </string>
+    <string name="lic4">Copyright [2018]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</string>
+
+    <string name="lic5">Copyright 2018 Roberto Leinardi.
+
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements.  See the NOTICE file distributed with this work for
+additional information regarding copyright ownership.  The ASF licenses this
+file to you under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License.  You may obtain a copy of
+the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+License for the specific language governing permissions and limitations under
+the License.</string>
+
+    <string name="drop_desc">A backdrop appears behind all other surfaces in an app, displaying contextual and actionable content.</string>
+    <string name="alert_dec">Alert dialogs interrupt users with urgent information, details, or actions.</string>
+    <string name="bottom_nav_desc">Bottom navigation bars allow movement between primary destinations in an app."\n""\n"A bottom app bar displays navigation and key actions at the bottom of mobile screens.</string>
+    <string name="btm_sheet_desc">Bottom sheets are surfaces containing supplementary content that are anchored to the bottom of the screen.</string>
+    <string name="button_desc">Buttons allow users to take actions, and make choices, with a single tap.</string>
+    <string name="lists_Desc">Lists are continuous, vertical indexes of text or images.</string>
+    <string name="notification_desc">Notifications provide short, timely, and relevant information about your app when it’s not in use.</string>
+    <string name="tab_Desc">Tabs organize content across different screens, data sets, and other interactions.</string>
+    <string name="toolbar_desc">The top app bar displays information and actions relating to the current screen.</string>
+    <string name="assign_id">You need data to download freebies. So we request you to turn on the data and try again.</string>
+    <string name="about">CodeX is a design app - backed by source code that helps teams build best user interface experiences.</string>
+    <string name="nav_Desc">Navigation drawers provide access to destinations and app functionality, such as switching accounts. They can either be permanently on-screen or controlled by a navigation menu icon.</string>
+    <string name="slider_desc">Side sheets are surfaces containing supplementary content that are anchored to the left or right edge of the screen.</string>
+    <string name="dialog_desc">Dialog informs users about a task and can contain critical information, require decisions, or involve multiple tasks.</string>
+    <string name="help_feedback"><![CDATA[Help & Feedback]]></string>
+    <string name="version2">- Added more categories."\n"- Fixed Oreo update issues."\n"- Changes in UI."\n"- Increase in number of freebies."\n"- Fixed Android Pie update issues.</string>
+    <string name="coderate">Rating of 4 out of 5 in CodeCanyon."\n"[Version 1.6]</string>
+    <string name="offRate">Get 50% OFF up to </string>
+    <string name="dialogTwo">You just crossed one more level!! Share this with your friends and win a chance of getting one more star.</string>
+
+    <string name="update0">Removal of Ads.</string>
+    <string name="update1">Added new categories and updated existing categories.</string>
+    <string name="update2">Much cleaner design along with dark theme.</string>
+    <string name="update3">Removal of freebies section.</string>
+    <string name="update4">Bug fixes and performance improvements.</string>
+    <string name="update5">Update color is green for this version.</string>
+    <string name="update6">Deprecation warnings have been removed.</string>
+    <string name="update7">No permissions requested.</string>
+    <string name="cardNumber">. . . . . . 1 2 3 4</string>
+    <string name="cardNum">XXXX XXXX XXXX XXXX</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

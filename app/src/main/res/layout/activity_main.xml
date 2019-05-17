@@ -1,0 +1,92 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_content3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:paddingTop="@dimen/appbar_padding_top"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+
+        <include
+            android:id="@+id/toolbar3"
+            layout="@layout/toolbar_custom2" />
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabs3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabIndicatorColor="@color/colorAccent"
+            app:tabIndicatorHeight="3dp">
+
+            <com.google.android.material.tabs.TabItem
+                android:id="@+id/tabFollowing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HOME" />
+
+            <com.google.android.material.tabs.TabItem
+                android:id="@+id/tabPopular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CAMERA" />
+
+            <com.google.android.material.tabs.TabItem
+                android:id="@+id/tabRecent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PROFILE" />
+
+            <com.google.android.material.tabs.TabItem
+                android:id="@+id/tabSettings"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SETTINGS" />
+
+        </com.google.android.material.tabs.TabLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/container3"
+        android:layout_width="match_parent"
+        android:layout_height="465dp"
+        android:layout_above="@+id/tabs3"
+        android:layout_below="@+id/dark_bottom"
+        android:layout_margin="@dimen/activity_horizontal_margin2"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/dark_bottom"
+        style="@style/Widget.Design.BottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom"
+        app:itemIconTint="@drawable/bottom_icon_tint"
+        app:itemTextColor="@drawable/bottom_icon_tint"
+        android:background="@color/colorPrimaryDark"
+        app:menu="@menu/bottom_nav_menu"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:layout_margin="40dp"
+        android:elevation="5dp"
+        android:src="@drawable/ic_camera_white_24dp"
+        app:backgroundTint="@color/colorAccent"
+        app:elevation="8dp"
+        app:fabSize="auto"
+        app:layout_anchor="@+id/dark_bottom"
+        app:layout_anchorGravity="top|center"
+        app:rippleColor="@color/colorPrimary"
+        />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

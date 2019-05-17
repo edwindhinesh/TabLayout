@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/basic_home"
+        android:title="@string/bottom_basic_home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+    <item
+        android:id="@+id/basic_camera"
+        android:title="@string/bottom_basic_camera"
+        android:icon="@drawable/ic_camera_black_24dp"/>
+
+    <item
+        android:id="@+id/basic_profile"
+        android:title="@string/bottom_basic_profile"
+        android:icon="@drawable/ic_person_black_24dp"/>
+
+    <item
+        android:id="@+id/basic_settings"
+        android:title="@string/bottom_basic_settings"
+        android:icon="@drawable/ic_settings_black_24dp"/>
+
+</menu>
