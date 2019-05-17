@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
         mToolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "Handle Navigation", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Handle Navigation Drawer", Toast.LENGTH_SHORT).show();
             }
         });
     }
